@@ -9,6 +9,6 @@
 ### 用于通信，放置比赛文件，包括但不限于：
 - #### Prepraration
 - #### Problem
-- #### To do list
+- #### To do lists
 - #### Code
 - #### Paper
