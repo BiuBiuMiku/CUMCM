@@ -1,5 +1,6 @@
 # CUMCM
 ## Information
+- ### Leader：杨思源
 - ### Member：杨思源，顾键濠，陈俊宇
 - ### Advisor：吴鹏昆教授
 ## Resign
